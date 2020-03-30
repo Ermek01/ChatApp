@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chat App</string>
+    <string name="Sign_In">Войти</string>
+    <string name="Register">Регистрация</string>
+    <string name="create_new_account">Создание нового аккаунта</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="username">Имя пользователя</string>
+    <string name="signin_system">Войти в систему</string>
+</resources>
